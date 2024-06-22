@@ -1,0 +1,1 @@
+My current project is to create a simple website using HTML to display recipes. By compleing this project, I will have demonstrated my understanding in version control using Git and Github, as well as utilizing HTML to create a simple, unstyled website.
