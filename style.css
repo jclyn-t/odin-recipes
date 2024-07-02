@@ -2,6 +2,32 @@ body {
     font-family: Helvetica, sans-serif;
     color: #333333;
     font-size: 16px;
+    background-color: #f4f4f7;
+}
+
+.title-card {
+    width: 1000px;
+    background: white;
+    padding: 40px;
+    margin: 60px auto;
+}
+
+.recipe-card {
+    width: 1000px;
+    background: white;
+    padding: 40px;
+    margin: 60px auto;
+}
+
+.description,
+.ingredients,
+.steps {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.recipe-title {
+    text-align: center;
 }
 
 .h1, 
@@ -16,4 +42,8 @@ body {
 
 .h2 {
     font-size: 32px;
+}
+
+ul {
+    list-style-position: inside;
 }
